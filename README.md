@@ -22,3 +22,9 @@ We present reusable tools and solutions engineered in the development and mainte
 Both packages are developed entirely in Python, using just-in-time compilation tools (Numba \& NVRTC) to enable a single-language HPC tech stack that covers simulation, analysis, and visualization codes.
 We will discuss the perspectives of both user and developer on reproducibility.
 
+# 🖼️ Posters:
+### **[CoPartCoFlow summer school](https://sites.google.com/view/copartcoflow/copartcoflow) Complex particle transport in complex flows with environmental applications:** _On the timescale of water isotopic equilibration in a raindrop/ambient-air system_
+[![link to poster](https://img.shields.io/badge/-poster-lightblue?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2025_CoPartCoFlow_poster.pdf)
+
+Stable water isotopes such as deuterium, oxygen-18 and oxygen-17 are used as tracers in atmospheric water-cycle analyses. Here, we focus on liquid-water clouds and precipitation. Considering a raindrop/ambient-air vapour diffusion process, the isotopic composition dynamics are driven by the differences in water diffusional coefficients and equilibrium vapour pressures for semi-light ($HDO$), light ($H_2O$) and heavy-oxygen ($H_2^{18}O$, $H_2 ^{17}O$) water. These dynamics lead to isotopic fractionation effects. In the poster, we will discuss approaches to quantify the fractionation effects by analysing the e-folding time scales of mass diffusion. This work is a part of a project aimed at development of particle-based cloud microphysics model capturing the links between the thermodynamic conditions within a cloud and the isotopic composition of surface precipitation.
+
