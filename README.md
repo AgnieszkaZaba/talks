@@ -25,7 +25,8 @@ We will discuss the perspectives of both user and developer on reproducibility.
 
 ### **[ZFŚ seminar at AGH University of Krakow](https://zfs.agh.edu.pl/en)** _Exploring Cloud Microphysics Modeling Concepts the Pythonic Way_
 
-[![link to presentation](https://img.shields.io/badge/-slides-blue?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2026-ZFS-presentation-modeling-pythonic-way.pdf)
+[![link to presentation pdf](https://img.shields.io/badge/-slides-blue?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2026-ZFS-presentation-modeling-pythonic-way.pdf)
+[![link to presentation repo](https://img.shields.io/badge/-presentation-blue?style=flat-square&logo=GitHub)](https://github.com/AgnieszkaZaba/cloud-microphysics-python-paper-presentation)
 [![link to preprint paper](https://img.shields.io/badge/-paper-green?style=flat-square)](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3906/)
 
 This seminar presents selected concepts from the publication
