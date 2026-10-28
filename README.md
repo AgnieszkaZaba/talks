@@ -22,6 +22,35 @@ We present reusable tools and solutions engineered in the development and mainte
 Both packages are developed entirely in Python, using just-in-time compilation tools (Numba \& NVRTC) to enable a single-language HPC tech stack that covers simulation, analysis, and visualization codes.
 We will discuss the perspectives of both user and developer on reproducibility.
 
+
+### **[ZFŚ seminar at AGH University of Krakow](https://zfs.agh.edu.pl/en)** _Exploring Cloud Microphysics Modeling Concepts the Pythonic Way_
+
+[![link to presentation](https://img.shields.io/badge/-slides-blue?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2026-ZFS-presentation-modeling-pythonic-way.pdf)
+[![link to preprint paper](https://img.shields.io/badge/-paper-green?style=flat-square)](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3906/)
+
+This seminar presents selected concepts from the publication
+[Exploring Cloud Microphysics Modeling Concepts the Pythonic Way](https://doi.org/10.5194/egusphere-2026-3906)
+which is under public peer-review in _Geoscientific Model Development_ (GMD).
+We will explore the ways to handle physical dimensions and units in Python code,
+ just-in-time (JIT) compilation with Numba, 
+ which used together yield clean code with high computational performance.
+We will also demonstrate how Jupyter notebooks and Quarto facilitate
+  reproducible scientific writing by integrating into a single file 
+  all computations, creation of figures, text formatting,
+  bibliography management, and rendering to the final paper pdf. 
+This approach supports the scientific method by ensuring full reproducibility,
+  which is among the review requirements of the GMD journal.
+While the presented examples focus on cloud microphysics modeling, 
+the Python techniques and tools discussed are applicable across 
+a broad range of disciplines and may be useful to modelers, theoreticians,
+and experimentalists alike.
+
+**Publication:**
+[Exploring Cloud Microphysics Modeling Concepts the Pythonic Way](https://doi.org/10.5194/egusphere-2026-3906)
+is available as pdf file generated directly from a Jupyter Notebook (uploaded as a suplement)
+which you can run in Google Colab or locally on your computer.
+
+
 # 🖼️ Posters:
 ### **[CoPartCoFlow summer school](https://sites.google.com/view/copartcoflow/copartcoflow) Complex particle transport in complex flows with environmental applications:** _On the timescale of water isotopic equilibration in a raindrop/ambient-air system_
 [![link to poster](https://img.shields.io/badge/-poster-lightblue?style=flat-square)](https://github.com/AgnieszkaZaba/talks/blob/main/2025_CoPartCoFlow_poster.pdf)
